@@ -14,13 +14,14 @@ namespace HoraPitch{
             Alarme alarme1 = new Alarme();
             string resposta = "S";
 
-            while(resposta != "N"){
+            while(resposta != "N"){ // criando condição
 
+                Console.Clear(); // utilizado para limpar a tela sempre quando começar a condição while novamente.
                 Console.Write("Digite a quantidade de tempo para o seu pitch: ");
                 alarme1.Tempo = Convert.ToInt32(Console.ReadLine());
                 alarme1.InicarContador();
                 Console.Write("Digite S para o proximo contadore N para encerrar o programa: ");
-                resposta = Console.ReadLine();
+                resposta = Console.ReadLine().ToUpper();
             }
 
         }
