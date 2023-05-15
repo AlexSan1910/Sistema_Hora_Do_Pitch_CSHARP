@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\bin\Debug\net7.0\Hora do Pitch.exe
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\bin\Debug\net7.0\Hora do Pitch.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\bin\Debug\net7.0\Hora do Pitch.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\bin\Debug\net7.0\Hora do Pitch.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\bin\Debug\net7.0\Hora do Pitch.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\refint\Hora do Pitch.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\Hora do Pitch.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Hora do Pitch\obj\Debug\net7.0\ref\Hora do Pitch.dll
